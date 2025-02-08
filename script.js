@@ -3,7 +3,7 @@ const messages = [
     "Really sure??",
     "Are you positive?",
     "Pookie please...",
-    " Hey Beautiful Please",
+    "Hey Beautiful Please",
     "Just think about it!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
